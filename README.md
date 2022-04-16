@@ -6,3 +6,4 @@ Spring 학습 정리
 
 [환경변수 설정하기](https://github.com/hwangwoojin/spring/wiki/환경변수-등록하기)
 
+[객체 관리](https://github.com/hwangwoojin/spring/wiki/객체-관리)
