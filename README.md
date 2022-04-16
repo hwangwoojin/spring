@@ -9,3 +9,7 @@ Spring 학습 정리
 [객체 관리](https://github.com/hwangwoojin/spring/wiki/객체-관리)
 
 [의존성 주입](https://github.com/hwangwoojin/spring/wiki/의존성-주입)
+
+## Reference
+
+[스프링 5 프로그래밍 입문](http://www.yes24.com/Product/Goods/62268795)
