@@ -10,6 +10,8 @@ Spring 학습 정리
 
 [의존성 주입](https://github.com/hwangwoojin/spring/wiki/의존성-주입)
 
+[컴포넌트 스캔](https://github.com/hwangwoojin/spring/wiki/컴포넌트-스캔)
+
 ## Reference
 
 [스프링 5 프로그래밍 입문](http://www.yes24.com/Product/Goods/62268795)
