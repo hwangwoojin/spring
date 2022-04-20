@@ -1,4 +1,9 @@
+# Eclipse
 .metadata
 .project
 .settings
 .classpath
+
+# Maven
+target/
+
