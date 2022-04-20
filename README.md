@@ -12,6 +12,8 @@ Spring 학습 정리
 
 [컴포넌트 스캔](https://github.com/hwangwoojin/spring/wiki/컴포넌트-스캔)
 
+[라이프사이클](https://github.com/hwangwoojin/spring/wiki/라이프사이클)
+
 ## Reference
 
 [스프링 5 프로그래밍 입문](http://www.yes24.com/Product/Goods/62268795)
