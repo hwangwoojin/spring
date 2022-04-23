@@ -16,6 +16,8 @@ Spring 학습 정리
 
 [AOP](https://github.com/hwangwoojin/spring/wiki/AOP)
 
+[JDBC](https://github.com/hwangwoojin/spring/wiki/JDBC)
+
 ## Reference
 
 [스프링 5 프로그래밍 입문](http://www.yes24.com/Product/Goods/62268795)
