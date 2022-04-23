@@ -27,6 +27,13 @@ public class UserDao {
 		return results.isEmpty() ? null : results.get(0);
 	}
 	
+	public void update(User user) {
+		jdbcTemplate.update(
+			"update user set name = ?, password = ? where email = ?",
+			user.getName(), user.getPassword(), user.getEmail()
+		);
+	}
+	
 	public int count() {
 		int count = jdbcTemplate.queryForObject(
 			"select count(*) from user",
