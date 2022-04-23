@@ -20,6 +20,8 @@ Spring 학습 정리
 
 [MVC](https://github.com/hwangwoojin/spring/wiki/MVC)
 
+[Validator](https://github.com/hwangwoojin/spring/wiki/Validator)
+
 ## Reference
 
 [스프링 5 프로그래밍 입문](http://www.yes24.com/Product/Goods/62268795)
